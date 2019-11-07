@@ -1,11 +1,11 @@
 # Site settings
 author: Devin Belden
-title: 
+title: DS by DB
 header-img: img/home-bg.png
 email: devin.belden.28@gmail.com
 copyright_name: Devin Belden
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Looking at the world through data
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  devinbelden
